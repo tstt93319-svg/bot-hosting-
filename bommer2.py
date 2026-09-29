@@ -89,7 +89,7 @@ SUPER_ADMIN_NAME = "@helpwithyour_bot"
 SUPER_ADMIN_LINK = "https://t.me/helpwithyour_bot"
 SUPER_ADMINS = [7272787842]
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip() = 
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 LOG_CHANNEL_ID = -1004454759534
 
 _DATA_FILE = "blast_data.json"
